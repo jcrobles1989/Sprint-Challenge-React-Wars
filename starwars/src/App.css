@@ -6,3 +6,13 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+
+.card-container {
+  margin-top: 20%;
+  color: #48D1CC;
+}
+
+.card-title {
+  color: #FF4500;
+  text-transform: capitalize;
+}
